@@ -1,3 +1,8 @@
+# Version 1.1.1
+
+- Fix https://github.com/zurb/foundation-apps/issues/692
+- Fix https://github.com/zurb/foundation-apps/issues/638
+
 # Version 1.1 — Weisshorn
 
 *March 17, 2015*
